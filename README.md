@@ -2,7 +2,7 @@
 
 <div style="text-align: center; margin-top: 20px; padding:20px">
     <img src="https://media.tenor.com/wF5RiCnfj34AAAAM/work-computer.gif" alt="logo" width="80%" height="auto" />
-    <h1 style="font-family: Arial, sans-serif; color: #333;">Hi 👋, I'm LRBCODE49</h1>
+    <h1 style="font-family: Arial, sans-serif; color: #333;">Hi 👋, I'm LRBCODE49 </h1>
     <h3 style="font-family: Arial, sans-serif; color: #555;">A passionate frontend developer </h3>
 </div>
 
