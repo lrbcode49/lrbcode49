@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <div style="text-align: center; margin-top: 20px; padding:20px">
     <img src="https://windowscustomization.com/wp-content/uploads/2018/12/Epic-Samurai.gif" alt="logo" width="80%" height="auto" />
