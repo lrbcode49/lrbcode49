@@ -2,8 +2,11 @@
 <div style="text-align: center; margin-top: 20px; padding:20px; ">
     <img src="https://windowscustomization.com/wp-content/uploads/2018/12/Epic-Samurai.gif" alt="logo" width="80%" height="auto" />
     <h1 style="font-family: Arial, sans-serif; color: #333;">Hi 👋, I'm LRBCODE49 </h1>
-    <h3 style="font-family: Arial, sans-serif; color: #555;">  50% frontend developer </h3>
-    <h3 style="font-family: Arial, sans-serif; color: #555;">  90% Bug hunting </h3>
+
+    <marquee behavior="scroll" direction="up" scrollamount="1"><h2>Python</h2></marquee>
+    <marquee behavior="scroll" direction="right" scrollamount="12"><h2>js</h2></marquee>
+    <marquee behavior="scroll" direction="left" scrollamount="20">css</marquee>
+    <marquee behavior="scroll" direction="right" scrollamount="50">Html</marquee>
     
 </div>
 
