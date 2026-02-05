@@ -3,11 +3,6 @@
     <img src="https://windowscustomization.com/wp-content/uploads/2018/12/Epic-Samurai.gif" alt="logo" width="80%" height="auto" />
     <h1 style="font-family: Arial, sans-serif; color: #333;">Hi 👋, I'm LRBCODE49 </h1>
 
-    <marquee behavior="scroll" direction="up" scrollamount="1"><h2>Python</h2></marquee>
-    <marquee behavior="scroll" direction="right" scrollamount="12"><h2>js</h2></marquee>
-    <marquee behavior="scroll" direction="left" scrollamount="20">css</marquee>
-    <marquee behavior="scroll" direction="right" scrollamount="50">Html</marquee>
-    
 </div>
 
 
