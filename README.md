@@ -1,6 +1,6 @@
 
 <div style="text-align: center; margin-top: 20px; padding:20px; ">
-    <img src="https://giffiles.alphacoders.com/215/215911.gif" alt="logo" width="80%" height="auto" />
+    <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="logo" width="80%" height="auto" />
     <h1 style="font-family: Arial, sans-serif; color: #333;">Hi 👋, I'm LRBCODE49 </h1>
 
 </div>
